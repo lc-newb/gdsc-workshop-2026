@@ -6,9 +6,9 @@
 
 Welcome to **Gideon, The Open Sourcerer of GDSC**, the activity for the **GDSC <> Open Sourcery Workshop**!
 
-In this activity, you'll team up in small groups (2–4 people) to make an open-source contribution by adding a new *keyspell* to Gideon, the Open Sourcerer of GDSC.
+In this activity, you'll make open-source contributions together by adding new *keyspells* to Gideon, the Open Sourcerer of GDSC.
 
-Each group will be assigned a unique keyboard letter (e.g. `q`, `w`, `e`, …) and will customize a keyspell for it (a spell that casts when that letter key is pressed).
+Each person will be assigned a unique keyboard letter (e.g. `q`, `w`, `e`, …) and will customize a keyspell for it (a spell that casts when that letter key is pressed).
 
 ---
 
@@ -34,7 +34,7 @@ When someone presses your assigned key:
 2. The keyspell will fly upward in a random direction at a random speed.
 3. The keyspell should have a unique style and effect created by your group!
 
-Through Git commits and pull requests, we’ll combine everyone’s keyspells into this repository — **true open-source magic**.
+Through Git commits and pull requests, we’ll combine everyone’s keyspells into this repository.
 
 ---
 
@@ -71,7 +71,7 @@ Open the `gdsc-workshop-2026` folder in your IDE or text editor of choice (for e
 
 Open the `index.html` file in your browser.
 
-You’ll see Gideon on the screen. Pressing your group's assigned key will cast your group’s keyspell.
+You’ll see Gideon on the screen. Pressing your assigned key will cast your keyspell.
 
 ---
 
@@ -87,7 +87,7 @@ rSpell.js
 ...
 mSpell.js
 ```
-Your group will be told which file to edit (for example: `fSpell.js`).
+You will be told which file to edit (for example: `fSpell.js`).
 
 ---
 
@@ -168,7 +168,7 @@ In your pull request description, include:
 Closes #_
 ```
 
-Replace `_` with the number of the issue your group was assigned.
+Replace `_` with the number of the issue you were assigned.
 
 Example:
 ```bash
